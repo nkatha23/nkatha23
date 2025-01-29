@@ -13,7 +13,7 @@
 
 🔍 Exploring Web3, DeFi, and tokenized incentives to drive innovation in energy and property ownership.
 
-📫 How to reach me: Email me at nkathakaburu0@gmail or connect with me on Linkeldn.
+📫 How to reach me: Email me at nkathakaburu0@gmail.com or connect with me on Linkeldn.
 
 😃 Pronouns: She/her
 
