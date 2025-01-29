@@ -40,12 +40,11 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### 📊 GitHub Stats:
-![Nkatha](https://github-readme-stats.vercel.app/api?username=nkatha23E&show_icons=true&theme=dark&count_private=true)
+![Nkatha](https://github-readme-stats.vercel.app/api?username=nkatha23&show_icons=true&theme=dark&count_private=true)
 
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkatha23&layout=compact&theme=dark)
 
-### 🔥 GitHub Streak:
 ### 🔥 GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkatha23&theme=dark)
 
