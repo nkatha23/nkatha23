@@ -3,13 +3,13 @@
 
 🔭 I’m currently working on full-stack web development projects that leverage my skills in Python(Django), Rust and React, with a focus on creating innovative solutions for agriculture and energy.
 
-🚀 I'm a blockchain and Web3 enthusiast working on decentralized solutions that leverage smart contracts and Internet Computer Protocol (ICP)
+🚀 I'm a bitcoin enthusiast
 
-💡 Currently leading projects like Sandile Energies, a decentralized energy efficiency platform for Africa, and working on real estate smart contracts with automated escrow systems.
+💡 Currently leading projects like Sandile Energies, a decentralized energy efficiency platform for Africa.
 
-🌱 Learning and improving my expertise in smart contracts, Rust, Motoko, and machine learning.
+🌱 Learning and improving my expertise in smart contracts, Rust and machine learning.
 
-🤝 Always open to collaborations in blockchain,
+🤝 Always open to collaborations in blockchain. 
 
 🔍 Exploring Web3, DeFi, and tokenized incentives to drive innovation in energy and property ownership.
 
