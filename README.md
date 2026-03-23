@@ -2,6 +2,6 @@
 
 ₿ Bitcoin enthusiast | Software Developer | Building for Africa
 
-Crafting solutions with Python · React
+Crafting solutions with Python · NodeJS
 
 📫 nkathakaburu0@gmail.com | She/her
